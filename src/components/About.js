@@ -7,7 +7,7 @@ const About = () => {
   return (
     <section id="about">
       <FloatingHeader>About me</FloatingHeader>
-      <p>Eudcation: Bachelor of Science, Computer engineering from california State university Fullerton</p>
+      <p>Education: Bachelor of Science, Computer Engineering from California State university Fullerton</p>
       <p>First Generation student</p>
       <p>Open to work!</p>
     </section>
