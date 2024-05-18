@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.40b57257.css",
+    "main.js": "/my-portfolio/static/js/main.0f5c1889.js",
+    "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/fernando.jpeg": "/my-portfolio/static/media/fernando.58b931ddd4857655ab44.jpeg",
+    "static/media/Vanityvue.jpeg": "/my-portfolio/static/media/Vanityvue.1a8d0afc41990991664f.jpeg",
+    "index.html": "/my-portfolio/index.html",
+    "main.40b57257.css.map": "/my-portfolio/static/css/main.40b57257.css.map",
+    "main.0f5c1889.js.map": "/my-portfolio/static/js/main.0f5c1889.js.map",
+    "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40b57257.css",
+    "static/js/main.0f5c1889.js"
+  ]
+}
