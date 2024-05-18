@@ -1,0 +1,26 @@
+/* src/components/Header.css */
+header {
+  background-color: #7C8363;
+  color: #EDF4F2;
+  padding: 1em 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 1em;
+}
+
+nav ul li a {
+  color: #EDF4F2;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  color: #31473A;
+}

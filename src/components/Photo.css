@@ -1,0 +1,21 @@
+/* src/components/Photo.css */
+.photo-container {
+  display: flex;
+  justify-content: center;
+  margin: 2em 0;
+}
+
+.profile-photo {
+  border-radius: 50%;
+  width: 200px; /* Increased width */
+  height: 200px; /* Increased height */
+  object-fit: cover;
+  border: 2px solid #333;
+}
+
+@media (max-width: 600px) {
+  .profile-photo {
+    width: 150px; /* Adjusted for smaller screens */
+    height: 150px; /* Adjusted for smaller screens */
+  }
+}

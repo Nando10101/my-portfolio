@@ -1,0 +1,21 @@
+/* src/components/Experience.css */
+#experience {
+  background-color: #F8F8F8;
+}
+
+.experience-list {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+.experience-item {
+  background-color: #FFFFFF;
+  margin: 1em 0;
+  padding: 1em;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.experience-item h3 {
+  margin-top: 0;
+}
